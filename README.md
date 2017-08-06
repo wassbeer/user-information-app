@@ -1,8 +1,6 @@
 # User Information App
 
-![banner](https://github.com/wassbeer/JavaScript-Basics/blob/master/public/images/screenshot.JPG)
-
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+![banner](https://github.com/wassbeer/user-information-app/blob/master/public/images/screenshot.JPG?raw=true)
 
 > User information app built with Node.js that can display, search for and add users.
 
