@@ -1,0 +1,24 @@
+{
+  "name": "userinformationapp",
+  "version": "1.0.0",
+  "description": "a user management system which displays users, provides a search function through its users and enables one to add users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "user",
+    "information",
+    "user",
+    "management"
+  ],
+  "author": "wassbeer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0"
+  }
+}

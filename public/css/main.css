@@ -1,0 +1,50 @@
+a{
+	text-decoration: none;
+}
+
+body{
+	text-align: center;
+	background: url(https://media.giphy.com/media/xUOrw5qmwTCqtddUR2/giphy.gif) no-repeat top center fixed;
+	background-size: 100% 45rem;
+	opacity: 50%;
+}
+
+form{
+	margin-bottom: 15%;
+}
+
+
+h1 {
+	color: brown;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 4em;
+	font-style: bold;
+	margin-top: 10%;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+	}
+
+h2{
+	color: purple;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 3em;
+	font-style: bold;
+	margin-top: -2%;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+li{
+	text-decoration: none;
+	list-style: none;
+}
+
+p{
+	color: white;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 2em;
+	font-style: bold;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+
+ul{
+	  list-style-type: none;
+}

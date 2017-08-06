@@ -1,0 +1,18 @@
+html
+	head
+		link(rel='stylesheet', href='css/main.css')
+		link(href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet")
+		body
+			h1 Add new aficionado
+			p First name
+			form(action="new_user" method="post")
+				input(type="text" name="firstname")
+				p Last name
+				input(type="text" name="lastname")
+				br
+				p Email
+				input(type="text" name="email")
+				br
+				br
+				input(type="submit" value="Add new user!")
+				
